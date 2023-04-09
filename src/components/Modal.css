@@ -1,0 +1,48 @@
+/* Estilo para o cabeçalho da modal */
+.modal-header {
+    background-color: #007bff;
+    color: #fff;
+    border-bottom: none;
+  }
+  
+  /* Estilo para o título da modal */
+  .modal-title {
+    font-weight: bold;
+    margin: 0 auto;
+    padding-left: 80px;
+    justify-content: space-between;
+    
+}
+  .modal{
+    padding-top: 300px;
+  }
+  /* Estilo para o corpo da modal */
+  .modal-body {
+    padding: 1rem;
+    margin: 0 auto;
+    display: block;
+    width: auto;
+  }
+  
+  /* Estilo para o rodapé da modal */
+  .modal-footer {
+    border-top: none;
+  }
+  
+  /* Estilo para o botão de fechar */
+  .close {
+    color: #fff;
+  }
+  
+  /* Estilo para o botão "Salvar Alterações" */
+  .modal-footer .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  /* Estilo para o botão "Fechar" */
+  .modal-footer .btn-secondary {
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+    color: #6c757d;
+  }
